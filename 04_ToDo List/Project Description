@@ -1,0 +1,20 @@
+TypeScript Command Line Todo List
+Immerse yourself in this TypeScript project featuring a command line todo list application. Manage your tasks effortlessly with functions like adding todos, viewing them, updating their status, deleting tasks, and exiting the system. This project showcases TypeScript's capabilities in building structured and efficient command line applications for task management.
+
+Features
+Add Todo: Enter new tasks to be completed.
+View: Display the list of current todos.
+Update: Modify the status or details of existing todos.
+Delete: Remove completed or unnecessary todos.
+Exit System: Gracefully exit the todo list application.
+
+Contributing
+Contributions are welcome! Fork the repository, enhance functionalities, or suggest improvements. Submit pull requests or report issues through GitHub to collaborate effectively.
+
+License
+This project is licensed under the MIT License. Refer to the LICENSE file for more details.
+
+Contact
+For questions or feedback regarding this todo list application, reach out via GitHub Issues or contact me directly at shariqfazal123@gmail.com
+
+Organize your tasks efficiently with TypeScript!
