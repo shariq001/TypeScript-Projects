@@ -1,0 +1,19 @@
+TypeScript Command Line ATM Machine
+Explore this TypeScript project featuring a command line ATM machine capable of performing essential banking operations: deposit, transfer, withdraw, check balance, and fast cash withdrawal. Built for simplicity and functionality, it utilizes TypeScript's robust typing and modular structure to ensure secure and efficient transactions.
+
+Features
+Deposit: Add funds to your account securely.
+Transfer: Transfer money between accounts seamlessly.
+Withdraw: Withdraw cash with secure validation checks.
+Check Balance: View your current account balance instantly.
+Fast Cash: Quickly withdraw preset amounts for convenience.
+
+Contributing
+Contributions are welcome! Fork the repository, enhance functionalities, or suggest improvements. Submit pull requests or report issues through GitHub to collaborate effectively.
+
+License
+This project is licensed under the MIT License. For details, refer to the LICENSE file.
+
+Contact
+For questions or feedback regarding this ATM machine project, reach out via GitHub Issues or contact me directly at shariqfazal123@gmail.com
+Experience secure and efficient banking operations with TypeScript!
