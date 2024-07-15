@@ -1,0 +1,19 @@
+TypeScript Command Line Calculator
+This TypeScript project implements a simple command line calculator capable of performing basic arithmetic operations: addition, subtraction, multiplication, and division. Designed for ease of use, it leverages TypeScript's strong typing and functional programming principles to ensure accurate computation and error handling. Ideal for learning TypeScript fundamentals and basic command line interface (CLI) applications.
+
+Features
+Addition: Computes the sum of two numbers.
+Subtraction: Calculates the difference between two numbers.
+Multiplication: Computes the product of two numbers.
+Division: Performs division and handles division by zero errors gracefully.
+
+Contributing
+Contributions are welcome! Feel free to fork the repository, add new features, or enhance existing ones. Submit pull requests or report issues through GitHub.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Contact
+For questions or suggestions regarding this calculator, reach out via GitHub Issues or contact me directly at shariqfazal123@gmail.com
+
+Enjoy calculating with TypeScript!
